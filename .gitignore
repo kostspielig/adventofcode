@@ -1,0 +1,10 @@
+# Emacs
+
+*~
+
+# Scala
+
+target
+.ensime*
+*.class
+*.log
