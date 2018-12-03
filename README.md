@@ -5,3 +5,4 @@ Having fun while learning some programming languages
 
 - Day 1: `Scala`
 - Day 2: `Go`
+- Day 3: `Rust`
