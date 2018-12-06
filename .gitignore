@@ -1,6 +1,8 @@
 # Emacs
 
+\#*\#
 *~
+.\#*
 
 # Scala
 
@@ -14,3 +16,16 @@ target
 out*
 .idea*
 *.kexe
+
+# Clojure
+
+/target
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+*.jar
+/.lein-*
+/.nrepl-port
+.hgignore
+.hg/

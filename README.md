@@ -7,3 +7,4 @@ Having fun while learning some programming languages
 - Day 2: `Go`
 - Day 3: `Rust`
 - Day 4: `Kotlin`
+- Day 5: `Clojure`
